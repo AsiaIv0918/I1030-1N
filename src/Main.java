@@ -18,8 +18,5 @@ public class Main {
 			a=a*-1;
 			System.out.printf("%d",a);
 			*/
-
-
-
     }
 }
